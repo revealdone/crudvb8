@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\pcrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{890986CF-0CF4-4FC3-AB92-D40FA4E6DB8F}|pcrud\\pcrud.vbproj|c:\\users\\hp\\source\\repos\\pcrud\\pcrud\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{890986CF-0CF4-4FC3-AB92-D40FA4E6DB8F}|pcrud\\pcrud.vbproj|solutionrelative:pcrud\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890986CF-0CF4-4FC3-AB92-D40FA4E6DB8F}|pcrud\\pcrud.vbproj|C:\\Users\\hp\\source\\repos\\pcrud\\pcrud\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{890986CF-0CF4-4FC3-AB92-D40FA4E6DB8F}|pcrud\\pcrud.vbproj|solutionrelative:pcrud\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890986CF-0CF4-4FC3-AB92-D40FA4E6DB8F}|pcrud\\pcrud.vbproj|c:\\users\\hp\\source\\repos\\pcrud\\pcrud\\mdkoneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{890986CF-0CF4-4FC3-AB92-D40FA4E6DB8F}|pcrud\\pcrud.vbproj|solutionrelative:pcrud\\mdkoneksi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MdKoneksi.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\pcrud\\pcrud\\MdKoneksi.vb",
+              "RelativeDocumentMoniker": "pcrud\\MdKoneksi.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\pcrud\\pcrud\\MdKoneksi.vb",
+              "RelativeToolTip": "pcrud\\MdKoneksi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-04T10:09:43.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\pcrud\\pcrud\\Form1.vb",
+              "RelativeDocumentMoniker": "pcrud\\Form1.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\pcrud\\pcrud\\Form1.vb",
+              "RelativeToolTip": "pcrud\\Form1.vb",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAcwJwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-04T08:07:58.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\pcrud\\pcrud\\Form1.vb",
+              "RelativeDocumentMoniker": "pcrud\\Form1.vb",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\pcrud\\pcrud\\Form1.vb [Design]",
+              "RelativeToolTip": "pcrud\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-04T07:54:54.567Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
